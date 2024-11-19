@@ -1,6 +1,6 @@
-import gestion_estudiante
-import gestion_cursos
-import gestion_universidad
+from gestion_estudiante import gestion_estudiante
+from gestion_cursos import gestion_cursos
+from gestion_universidad import gestion_universidad
 import json
 
 def menu():

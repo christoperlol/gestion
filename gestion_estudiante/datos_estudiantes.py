@@ -1,6 +1,6 @@
 import json
-import gestion_cursos
-import datos_universidad
+import gestion_cursos.gestion_cursos as gestion_cursos
+import gestion_universidad.datos_universidad as datos_universidad
 
 # Diccionario de estudiantes
 estudiantes_dict = {}

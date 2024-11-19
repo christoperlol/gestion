@@ -1,4 +1,4 @@
-from gestion_estudiante import estudiantes_dict
+from gestion_estudiante.gestion_estudiante import estudiantes_dict
 
 # Se asume que la lista de cursos está definida y es accesible desde otro módulo.
 cursos = ['modelamiento de datos', 'lenguaje programacion', 'ingles', 'taller de creatividad']
